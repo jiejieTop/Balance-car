@@ -55,6 +55,23 @@ GenerateClassCluster=0
 DocumentUniqueId=NZOBTVZE
 
 [Document2]
+DocumentPath=POWER.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MQJZZOGL
+
+[Document3]
 DocumentPath=MPU6050.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,8 +88,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ASPAYEJG
 
-[Document3]
-DocumentPath=F:\PCB-project\PCB\LIB\POWER.SchDoc
+[Document4]
+DocumentPath=HW.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -86,7 +103,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=MQJZZOGL
+DocumentUniqueId=LRRVIGBB
 
 [Configuration1]
 Name=Sources
